@@ -30,5 +30,5 @@ Sou técnico em Tecnologia da Informação pela FUNEC e atualmente, estou cursan
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=devpedrosp&rank_icon=github&theme=midnight-purple)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devpedrosp&layout=compact&theme=midnight-purple)<p>
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrosilvape&rank_icon=github&theme=midnight-purple)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pedrosilvape&layout=compact&theme=midnight-purple)<p>
